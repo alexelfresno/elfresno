@@ -1,0 +1,59 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: hsla(180, 100%, 27%, 0.295);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+header{
+    background-color: #008a8a;
+    position: relative;
+    top: -15px;
+    left: auto;
+    position: sticky;
+    padding: 20px;
+    top: 0px;
+    box-shadow: 0px 01px 10px;
+
+}
+nav{
+    text-align: center;
+
+
+
+
+}
+.nav {
+    color: rgb(255, 255, 255);
+    background-color: #008a8a;
+    text-decoration: none;
+    padding: 3px;
+    border: 2px solid white;
+    box-shadow: 01px 01px 1px white;
+    
+}
+
+main{
+
+    padding: 50px;
+    max-width: 500px;
+    min-height: 1000px;
+}
+
+footer{
+    background-color: #008a8a;
+    box-shadow: 0px 01px 10px;
+}
+
+.mapa{
+    
+    max-width: min-content;
+    max-height: min-content;
+    position: relative;
+    left: 80%;
+    
+}
